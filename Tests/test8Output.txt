@@ -1,0 +1,9 @@
+String 1: ABCDEFG
+Length of String 1: 7
+String 2: ABCDEFG
+Length of String 2: 7
+
+Longest Common Subsequence: ABCDEFG
+Number of comparisons: 49
+
+

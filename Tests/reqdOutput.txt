@@ -1,0 +1,54 @@
+String 1: ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+Length of String 1: 29
+String 2: GTCGTTCGGAATGCCGTTGCTCTGTAAA
+Length of String 2: 28
+
+Longest Common Subsequence: GTCGTCGGAAGCCGGCCGAA
+Number of comparisons: 812
+
+
+String 1: ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+Length of String 1: 29
+String 2: ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+Length of String 2: 40
+
+Longest Common Subsequence: ATGCTGCGCGGAGCGGCCG
+Number of comparisons: 1160
+
+
+String 1: ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+Length of String 1: 29
+String 2: CTTGCTTAAATGTGCA
+Length of String 2: 16
+
+Longest Common Subsequence: CTTGCAAGGCA
+Number of comparisons: 464
+
+
+String 1: GTCGTTCGGAATGCCGTTGCTCTGTAAA
+Length of String 1: 28
+String 2: ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+Length of String 2: 40
+
+Longest Common Subsequence: TGTTGATGCCGTGCTTGTAA
+Number of comparisons: 1120
+
+
+String 1: GTCGTTCGGAATGCCGTTGCTCTGTAAA
+Length of String 1: 28
+String 2: CTTGCTTAAATGTGCA
+Length of String 2: 16
+
+Longest Common Subsequence: CTTGAATGTGCA
+Number of comparisons: 448
+
+
+String 1: ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+Length of String 1: 40
+String 2: CTTGCTTAAATGTGCA
+Length of String 2: 16
+
+Longest Common Subsequence: CTTGCTTAAATTG
+Number of comparisons: 640
+
+

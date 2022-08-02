@@ -1,0 +1,9 @@
+String 1: Thereisnothingincommonbetweenthesetwolines.
+Length of String 1: 43
+String 2: XXXXXXXXXXXXXXXXXXXXXXX
+Length of String 2: 23
+
+Longest Common Subsequence: There is no common subsequence for these sequences.
+Number of comparisons: 989
+
+

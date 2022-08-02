@@ -1,0 +1,9 @@
+String 1: AAAABBAA
+Length of String 1: 8
+String 2: AABBAAAA
+Length of String 2: 8
+
+Longest Common Subsequence: AABBAA
+Number of comparisons: 64
+
+
